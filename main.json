@@ -1,0 +1,49 @@
+{
+	"basicdetalis":{
+		"image":"chrysanthemum.jpg",
+		"name":"m.bhavyasree",
+		"email":"bhavimakkena@gmail.com",
+		"phone":"9912433589",
+		"address":"6-43,martur,prakasam(dt)"
+	},
+"education":[
+	{
+		"course":"b.tech(c.s.e)",
+		"college":"vignan nirula",
+		"percentage":"76%"
+	},
+	{
+		"course":"intermediate(m.p.c)",
+		"college":"sri chaitanya jr clg",
+		"percentage":"83.8%"
+	},
+	{
+		"course":"ssc",
+		"college":"bhashyam high school",
+		"percentage":"82"
+	}
+],
+"skills":[
+{
+	"name":"operating system",
+	"value":"windows,linux,MAC"
+},
+{
+	"name":"programming languages",
+	"value":"c,c++,java,python"
+}
+
+],
+"carrier":{
+	"ca":"to be a part of highly motivated team and achieve a challenging position in s/w industry"
+
+},
+"achievements":[
+    "I got first prize in my school"
+],
+"descripition":{
+         "des":"hello this is bhavyasree"
+}
+
+
+}
